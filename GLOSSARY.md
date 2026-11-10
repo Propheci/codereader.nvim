@@ -22,6 +22,10 @@ _Avoid_: History, breadcrumbs, path
 One code location on a Trail.
 _Avoid_: Step, entry, node
 
+**Lost**:
+Describes a Stop whose code location can no longer be found. Unlike an Orphan, it holds nothing the Reader wrote.
+_Avoid_: Broken, missing
+
 ### Notes
 
 **Note**:
